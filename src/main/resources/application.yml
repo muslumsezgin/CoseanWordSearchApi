@@ -1,0 +1,19 @@
+server:
+  port: 8080
+  session:
+    timeout: 900
+  context-path: /api
+spring:
+  application.name: cosean-search
+endpoints:
+  autoconfig.enabled: false
+  beans.enabled: false
+  configprops.enabled: false
+  dump.enabled: true
+  env.enabled: false
+  health.enabled: true
+  info.enabled: false
+  mappings.enabled: false
+  metrics.enabled: true
+  shutdown.enabled: false
+  trace.enabled: false
