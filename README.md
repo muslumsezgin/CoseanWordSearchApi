@@ -4,7 +4,7 @@
 ### Status
 [![Build Status](https://travis-ci.org/muslumszgn/CoseanWordSearchApi.svg?branch=master)](https://travis-ci.org/muslumszgn/CoseanWordSearchApi)
 
-Cosean Word Search Api basit arama motoru için api servisidir. 
+Cosean Word Search Api arama motoru için api servisidir. 
 #### Frontend : https://github.com/anilcosar/CoseanWordSearch-frontend
 
 ## Teknolojiler
